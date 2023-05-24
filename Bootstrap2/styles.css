@@ -1,0 +1,11 @@
+* {
+  font-family: "Dancing Script", cursive;
+}
+
+:root {
+  --my_primary: rgb(148, 102, 102);
+}
+
+._bg-red {
+  background-color: var(--my_primary);
+}
